@@ -1,0 +1,13 @@
+{
+  "schema_version": "1",
+  "publication_status": "final_public",
+  "receipt_version": 1,
+  "season": 2026,
+  "week": 2,
+  "receipt_path": "data/outputs/product_a/weekly_model_ledger/weekly_model_ledger_2026_week_2.csv",
+  "projection_receipt_sha256": "9e0494fa14b2bf4172df8ee42fb891211e18e6b24c195fc75718ae1a0366bff2",
+  "designated_at_utc": "2026-09-08T15:08:33.122773+00:00",
+  "run_label": "manual-sunday-2026-week-1-to-2",
+  "supersedes_receipt_sha256": "",
+  "policy": "A final-public receipt cannot be replaced. A preliminary receipt may be superseded only by an explicit versioned replacement that archives the original receipt and designation."
+}
