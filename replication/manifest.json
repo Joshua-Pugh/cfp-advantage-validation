@@ -1,0 +1,77 @@
+{
+  "graded_rows": 215,
+  "hash_normalization": "text line endings normalized to LF",
+  "pending_rows": 56,
+  "population_rows": 271,
+  "receipts": [
+    {
+      "canonical_archive_csv_sha256": "8508e5e0acffcc27e150b722da061303021bf0872e22f674bbd33c70312ff49a",
+      "designated_at_utc": "2026-08-20T01:43:00.634091+00:00",
+      "games": 51,
+      "original_pregame_receipt_sha256": "0ca42df5e6ca99839a159afb7870cd2f62b61f542b309912e5d437623ef27c1f",
+      "publication_status": "final-public",
+      "receipt_version": 2,
+      "release_id": "2026.v1",
+      "run_label": "certified-internal-anchor-2026-v1",
+      "season": 2026,
+      "supersedes_pregame_receipt_sha256": "5545fce42acd767830ab509b904f27c436d437c7173cb83b6bb05ca4e7308d91",
+      "week": 1
+    },
+    {
+      "canonical_archive_csv_sha256": "f5f4053c1e1cc3974292c65c3d9e29cafc28513d17818a19cea6fefe5532ff6a",
+      "designated_at_utc": "2026-09-08T16:19:51.259056+00:00",
+      "games": 49,
+      "original_pregame_receipt_sha256": "94efc57aaf397b550d9f12af89e3bdc6b8567513a87aa115db68601c240698ac",
+      "publication_status": "final-public",
+      "receipt_version": 2,
+      "release_id": "2026.v1",
+      "run_label": "corrected-week1-derived-inputs-2026-week2",
+      "season": 2026,
+      "supersedes_pregame_receipt_sha256": "9e0494fa14b2bf4172df8ee42fb891211e18e6b24c195fc75718ae1a0366bff2",
+      "week": 2
+    },
+    {
+      "canonical_archive_csv_sha256": "f9230c07a3cf6d217e1b89f75ecc1e5133a4796268fd3ec013334f9ab79fb2be",
+      "designated_at_utc": "2026-09-13T15:46:31.404165+00:00",
+      "games": 57,
+      "original_pregame_receipt_sha256": "a942575192c7f72ddd071e488189aedc497448a4a043f81789f354d97f2b11ed",
+      "publication_status": "final-public",
+      "receipt_version": 1,
+      "release_id": "2026.v1",
+      "run_label": "manual-sunday-2026-week-2-to-3",
+      "season": 2026,
+      "supersedes_pregame_receipt_sha256": null,
+      "week": 3
+    },
+    {
+      "canonical_archive_csv_sha256": "767195b32330a86dbce819f7be3e7e42efec2c67c160c9f659d66be6a41d924c",
+      "designated_at_utc": "2026-09-20T17:17:55.012913+00:00",
+      "games": 58,
+      "original_pregame_receipt_sha256": "e7f4731bf48a869df86f1bdf8402b4d1aaa44f756d1ddb512d6c40eeb0eb1015",
+      "publication_status": "final-public",
+      "receipt_version": 1,
+      "release_id": "2026.v2",
+      "run_label": "manual-sunday-2026-week-3-to-4",
+      "season": 2026,
+      "supersedes_pregame_receipt_sha256": null,
+      "week": 4
+    },
+    {
+      "canonical_archive_csv_sha256": "d7d72ee2defd09c74840d909ca53b63c46b469e65666b6207f4d50a82cd6a734",
+      "designated_at_utc": "2026-09-27T15:14:01.460943+00:00",
+      "games": 56,
+      "original_pregame_receipt_sha256": "8573a6dda76ab607134144eedc9479be38ccb537a192eefd35383f50388ab3db",
+      "publication_status": "final-public",
+      "receipt_version": 1,
+      "release_id": "2026.v2",
+      "run_label": "manual-sunday-2026-week-4-to-5",
+      "season": 2026,
+      "supersedes_pregame_receipt_sha256": null,
+      "week": 5
+    }
+  ],
+  "schema_version": 1,
+  "scope": "canonical designated public receipts; superseded artifacts retained as provenance",
+  "season": 2026,
+  "source_file_count": 20
+}

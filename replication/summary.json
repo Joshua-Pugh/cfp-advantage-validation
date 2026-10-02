@@ -1,0 +1,94 @@
+{
+  "by_release": {
+    "2026.v1": {
+      "graded_games": 157,
+      "margin_mae": 12.32248,
+      "pending_games": 0,
+      "published_games": 157,
+      "winner_accuracy": 0.815287,
+      "winner_correct": 128,
+      "winner_eligible_games": 157
+    },
+    "2026.v2": {
+      "graded_games": 58,
+      "margin_mae": 12.998572,
+      "pending_games": 56,
+      "published_games": 114,
+      "winner_accuracy": 0.775862,
+      "winner_correct": 45,
+      "winner_eligible_games": 58
+    }
+  },
+  "by_week": {
+    "week-01": {
+      "graded_games": 51,
+      "margin_mae": 15.375046,
+      "pending_games": 0,
+      "published_games": 51,
+      "winner_accuracy": 0.843137,
+      "winner_correct": 43,
+      "winner_eligible_games": 51
+    },
+    "week-02": {
+      "graded_games": 49,
+      "margin_mae": 12.179673,
+      "pending_games": 0,
+      "published_games": 49,
+      "winner_accuracy": 0.77551,
+      "winner_correct": 38,
+      "winner_eligible_games": 49
+    },
+    "week-03": {
+      "graded_games": 57,
+      "margin_mae": 9.714,
+      "pending_games": 0,
+      "published_games": 57,
+      "winner_accuracy": 0.824561,
+      "winner_correct": 47,
+      "winner_eligible_games": 57
+    },
+    "week-04": {
+      "graded_games": 58,
+      "margin_mae": 12.998572,
+      "pending_games": 0,
+      "published_games": 58,
+      "winner_accuracy": 0.775862,
+      "winner_correct": 45,
+      "winner_eligible_games": 58
+    },
+    "week-05": {
+      "graded_games": 0,
+      "pending_games": 56,
+      "published_games": 56
+    }
+  },
+  "combined": {
+    "graded_games": 215,
+    "margin_mae": 12.504867,
+    "pending_games": 56,
+    "published_games": 271,
+    "winner_accuracy": 0.804651,
+    "winner_correct": 173,
+    "winner_eligible_games": 215
+  },
+  "definitions": {
+    "margin_mae": "mean(abs(actual_margin_home - published_margin_home))",
+    "winner_accuracy": "correct winner grades / graded non-tied games"
+  },
+  "record_label": "development validation",
+  "same_population_baselines": {
+    "home_by_3_margin": {
+      "margin_mae": 17.451163
+    },
+    "home_team_winner": {
+      "accuracy": 0.67907,
+      "correct": 146
+    },
+    "population": "same graded games as combined CFP Advantage record",
+    "zero_margin": {
+      "margin_mae": 18.413953
+    }
+  },
+  "schema_version": 1,
+  "season": 2026
+}
