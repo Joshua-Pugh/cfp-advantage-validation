@@ -10,13 +10,13 @@
       "winner_eligible_games": 157
     },
     "2026.v2": {
-      "graded_games": 114,
-      "margin_mae": 13.485622,
-      "pending_games": 58,
-      "published_games": 172,
-      "winner_accuracy": 0.77193,
-      "winner_correct": 88,
-      "winner_eligible_games": 114
+      "graded_games": 172,
+      "margin_mae": 12.896965,
+      "pending_games": 59,
+      "published_games": 231,
+      "winner_accuracy": 0.726744,
+      "winner_correct": 125,
+      "winner_eligible_games": 172
     }
   },
   "by_week": {
@@ -66,19 +66,28 @@
       "winner_eligible_games": 56
     },
     "week-06": {
+      "graded_games": 58,
+      "margin_mae": 11.739951,
+      "pending_games": 0,
+      "published_games": 58,
+      "winner_accuracy": 0.637931,
+      "winner_correct": 37,
+      "winner_eligible_games": 58
+    },
+    "week-07": {
       "graded_games": 0,
-      "pending_games": 58,
-      "published_games": 58
+      "pending_games": 59,
+      "published_games": 59
     }
   },
   "combined": {
-    "graded_games": 271,
-    "margin_mae": 12.811772,
-    "pending_games": 58,
-    "published_games": 329,
-    "winner_accuracy": 0.797048,
-    "winner_correct": 216,
-    "winner_eligible_games": 271
+    "graded_games": 329,
+    "margin_mae": 12.622819,
+    "pending_games": 59,
+    "published_games": 388,
+    "winner_accuracy": 0.768997,
+    "winner_correct": 253,
+    "winner_eligible_games": 329
   },
   "definitions": {
     "margin_mae": "mean(abs(actual_margin_home - published_margin_home))",
@@ -87,15 +96,15 @@
   "record_label": "development validation",
   "same_population_baselines": {
     "home_by_3_margin": {
-      "margin_mae": 17.464945
+      "margin_mae": 16.972644
     },
     "home_team_winner": {
-      "accuracy": 0.649446,
-      "correct": 176
+      "accuracy": 0.632219,
+      "correct": 208
     },
     "population": "same graded games as combined CFP Advantage record",
     "zero_margin": {
-      "margin_mae": 18.258303
+      "margin_mae": 17.644377
     }
   },
   "schema_version": 1,
