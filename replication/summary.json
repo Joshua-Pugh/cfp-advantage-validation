@@ -10,13 +10,13 @@
       "winner_eligible_games": 157
     },
     "2026.v2": {
-      "graded_games": 172,
-      "margin_mae": 12.896965,
-      "pending_games": 59,
-      "published_games": 231,
-      "winner_accuracy": 0.726744,
-      "winner_correct": 125,
-      "winner_eligible_games": 172
+      "graded_games": 231,
+      "margin_mae": 12.582267,
+      "pending_games": 56,
+      "published_games": 287,
+      "winner_accuracy": 0.714286,
+      "winner_correct": 165,
+      "winner_eligible_games": 231
     }
   },
   "by_week": {
@@ -75,19 +75,28 @@
       "winner_eligible_games": 58
     },
     "week-07": {
+      "graded_games": 59,
+      "margin_mae": 11.664842,
+      "pending_games": 0,
+      "published_games": 59,
+      "winner_accuracy": 0.677966,
+      "winner_correct": 40,
+      "winner_eligible_games": 59
+    },
+    "week-08": {
       "graded_games": 0,
-      "pending_games": 59,
-      "published_games": 59
+      "pending_games": 56,
+      "published_games": 56
     }
   },
   "combined": {
-    "graded_games": 329,
-    "margin_mae": 12.622819,
-    "pending_games": 59,
-    "published_games": 388,
-    "winner_accuracy": 0.768997,
-    "winner_correct": 253,
-    "winner_eligible_games": 329
+    "graded_games": 388,
+    "margin_mae": 12.477147,
+    "pending_games": 56,
+    "published_games": 444,
+    "winner_accuracy": 0.755155,
+    "winner_correct": 293,
+    "winner_eligible_games": 388
   },
   "definitions": {
     "margin_mae": "mean(abs(actual_margin_home - published_margin_home))",
@@ -96,15 +105,15 @@
   "record_label": "development validation",
   "same_population_baselines": {
     "home_by_3_margin": {
-      "margin_mae": 16.972644
+      "margin_mae": 16.257732
     },
     "home_team_winner": {
-      "accuracy": 0.632219,
-      "correct": 208
+      "accuracy": 0.621134,
+      "correct": 241
     },
     "population": "same graded games as combined CFP Advantage record",
     "zero_margin": {
-      "margin_mae": 17.644377
+      "margin_mae": 16.881443
     }
   },
   "schema_version": 1,
