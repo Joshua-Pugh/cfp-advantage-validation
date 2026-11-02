@@ -10,13 +10,13 @@
       "winner_eligible_games": 157
     },
     "2026.v2": {
-      "graded_games": 287,
-      "margin_mae": 12.244565,
-      "pending_games": 54,
-      "published_games": 341,
-      "winner_accuracy": 0.696864,
-      "winner_correct": 200,
-      "winner_eligible_games": 287
+      "graded_games": 341,
+      "margin_mae": 12.424841,
+      "pending_games": 62,
+      "published_games": 403,
+      "winner_accuracy": 0.697947,
+      "winner_correct": 238,
+      "winner_eligible_games": 341
     }
   },
   "by_week": {
@@ -93,19 +93,28 @@
       "winner_eligible_games": 56
     },
     "week-09": {
+      "graded_games": 54,
+      "margin_mae": 13.382973,
+      "pending_games": 0,
+      "published_games": 54,
+      "winner_accuracy": 0.703704,
+      "winner_correct": 38,
+      "winner_eligible_games": 54
+    },
+    "week-10": {
       "graded_games": 0,
-      "pending_games": 54,
-      "published_games": 54
+      "pending_games": 62,
+      "published_games": 62
     }
   },
   "combined": {
-    "graded_games": 444,
-    "margin_mae": 12.272116,
-    "pending_games": 54,
-    "published_games": 498,
-    "winner_accuracy": 0.738739,
-    "winner_correct": 328,
-    "winner_eligible_games": 444
+    "graded_games": 498,
+    "margin_mae": 12.392571,
+    "pending_games": 62,
+    "published_games": 560,
+    "winner_accuracy": 0.73494,
+    "winner_correct": 366,
+    "winner_eligible_games": 498
   },
   "definitions": {
     "margin_mae": "mean(abs(actual_margin_home - published_margin_home))",
@@ -114,15 +123,15 @@
   "record_label": "development validation",
   "same_population_baselines": {
     "home_by_3_margin": {
-      "margin_mae": 15.648649
+      "margin_mae": 15.572289
     },
     "home_team_winner": {
-      "accuracy": 0.628378,
-      "correct": 279
+      "accuracy": 0.63253,
+      "correct": 315
     },
     "population": "same graded games as combined CFP Advantage record",
     "zero_margin": {
-      "margin_mae": 16.315315
+      "margin_mae": 16.263052
     }
   },
   "schema_version": 1,
