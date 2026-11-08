@@ -497,3 +497,65 @@ game_id,season,week,date,away_team,home_team,away_score,home_score,source_provid
 401860924,2026,9,2026-11-01,Oregon State,Fresno State,22,38,CollegeFootballData (CFBD),401860924
 401862814,2026,9,2026-11-01,Army,Memphis,22,49,CollegeFootballData (CFBD),401862814
 401864530,2026,9,2026-11-01,Northern Illinois,UNLV,24,31,CollegeFootballData (CFBD),401864530
+401866453,2026,10,2026-11-04,Ohio,Akron,28,20,CollegeFootballData (CFBD),401866453
+401866454,2026,10,2026-11-04,Buffalo,Miami (OH),34,31,CollegeFootballData (CFBD),401866454
+401866455,2026,10,2026-11-05,Ball State,Massachusetts,30,31,CollegeFootballData (CFBD),401866455
+401866456,2026,10,2026-11-05,Central Michigan,Eastern Michigan,35,7,CollegeFootballData (CFBD),401866456
+401866457,2026,10,2026-11-05,Toledo,Sacramento State,20,17,CollegeFootballData (CFBD),401866457
+401862817,2026,10,2026-11-06,UTSA,Florida Atlantic,29,60,CollegeFootballData (CFBD),401862817
+401869964,2026,10,2026-11-06,James Madison,Southern Miss,54,23,CollegeFootballData (CFBD),401869964
+401856738,2026,10,2026-11-07,Arkansas,Auburn,23,26,CollegeFootballData (CFBD),401856738
+401856740,2026,10,2026-11-07,Alabama,LSU,31,13,CollegeFootballData (CFBD),401856740
+401856742,2026,10,2026-11-07,Vanderbilt,Mississippi State,25,23,CollegeFootballData (CFBD),401856742
+401856743,2026,10,2026-11-07,Texas,Missouri,34,20,CollegeFootballData (CFBD),401856743
+401856744,2026,10,2026-11-07,Texas A&M,South Carolina,9,17,CollegeFootballData (CFBD),401856744
+401856745,2026,10,2026-11-07,Kentucky,Tennessee,6,34,CollegeFootballData (CFBD),401856745
+401856849,2026,10,2026-11-07,BYU,Utah,20,28,CollegeFootballData (CFBD),401856849
+401856850,2026,10,2026-11-07,UCF,Kansas,33,32,CollegeFootballData (CFBD),401856850
+401856851,2026,10,2026-11-07,Cincinnati,Houston,24,31,CollegeFootballData (CFBD),401856851
+401856853,2026,10,2026-11-07,Iowa State,Baylor,31,42,CollegeFootballData (CFBD),401856853
+401856854,2026,10,2026-11-07,Oklahoma State,Kansas State,66,28,CollegeFootballData (CFBD),401856854
+401856855,2026,10,2026-11-07,TCU,Arizona,28,29,CollegeFootballData (CFBD),401856855
+401858285,2026,10,2026-11-07,Clemson,Syracuse,18,13,CollegeFootballData (CFBD),401858285
+401858286,2026,10,2026-11-07,Duke,NC State,41,3,CollegeFootballData (CFBD),401858286
+401858288,2026,10,2026-11-07,Virginia Tech,SMU,28,51,CollegeFootballData (CFBD),401858288
+401858289,2026,10,2026-11-07,Florida State,Boston College,31,24,CollegeFootballData (CFBD),401858289
+401858292,2026,10,2026-11-07,North Carolina,UConn,38,21,CollegeFootballData (CFBD),401858292
+401858510,2026,10,2026-11-07,Nebraska,Illinois,13,24,CollegeFootballData (CFBD),401858510
+401858512,2026,10,2026-11-07,UCLA,Minnesota,34,20,CollegeFootballData (CFBD),401858512
+401858514,2026,10,2026-11-07,Oregon,Ohio State,41,28,CollegeFootballData (CFBD),401858514
+401858515,2026,10,2026-11-07,Maryland,Purdue,34,29,CollegeFootballData (CFBD),401858515
+401858516,2026,10,2026-11-07,Penn State,Washington,28,25,CollegeFootballData (CFBD),401858516
+401858517,2026,10,2026-11-07,Rutgers,Wisconsin,10,31,CollegeFootballData (CFBD),401858517
+401860911,2026,10,2026-11-07,Boise State,Colorado State,64,38,CollegeFootballData (CFBD),401860911
+401862818,2026,10,2026-11-07,South Florida,East Carolina,17,20,CollegeFootballData (CFBD),401862818
+401862819,2026,10,2026-11-07,Charlotte,UAB,12,23,CollegeFootballData (CFBD),401862819
+401862820,2026,10,2026-11-07,Temple,Navy,35,42,CollegeFootballData (CFBD),401862820
+401862821,2026,10,2026-11-07,Rice,North Texas,23,52,CollegeFootballData (CFBD),401862821
+401862822,2026,10,2026-11-07,Tulsa,Tulane,60,10,CollegeFootballData (CFBD),401862822
+401864533,2026,10,2026-11-07,New Mexico,Nevada,31,3,CollegeFootballData (CFBD),401864533
+401864534,2026,10,2026-11-07,Northern Illinois,San José State,19,30,CollegeFootballData (CFBD),401864534
+401869927,2026,10,2026-11-07,Georgia State,App State,39,23,CollegeFootballData (CFBD),401869927
+401869936,2026,10,2026-11-07,UL Monroe,Arkansas State,19,17,CollegeFootballData (CFBD),401869936
+401869945,2026,10,2026-11-07,Old Dominion,Coastal Carolina,21,8,CollegeFootballData (CFBD),401869945
+401869951,2026,10,2026-11-07,Marshall,Georgia Southern,13,49,CollegeFootballData (CFBD),401869951
+401869968,2026,10,2026-11-07,South Alabama,Louisiana,26,28,CollegeFootballData (CFBD),401869968
+401871073,2026,10,2026-11-07,Delaware,Kennesaw State,40,42,CollegeFootballData (CFBD),401871073
+401871074,2026,10,2026-11-07,Missouri State,Florida International,20,23,CollegeFootballData (CFBD),401871074
+401871076,2026,10,2026-11-07,Western Kentucky,Middle Tennessee,42,51,CollegeFootballData (CFBD),401871076
+401871098,2026,10,2026-11-07,Louisiana Tech,Troy,41,17,CollegeFootballData (CFBD),401871098
+401856739,2026,10,2026-11-08,Oklahoma,Florida,23,7,CollegeFootballData (CFBD),401856739
+401856741,2026,10,2026-11-08,Georgia,Ole Miss,42,7,CollegeFootballData (CFBD),401856741
+401856852,2026,10,2026-11-08,Colorado,Arizona State,10,20,CollegeFootballData (CFBD),401856852
+401856856,2026,10,2026-11-08,West Virginia,Texas Tech,48,53,CollegeFootballData (CFBD),401856856
+401858287,2026,10,2026-11-08,Louisville,Georgia Tech,44,17,CollegeFootballData (CFBD),401858287
+401858291,2026,10,2026-11-08,Miami,Notre Dame,24,31,CollegeFootballData (CFBD),401858291
+401858511,2026,10,2026-11-08,Michigan State,Michigan,15,6,CollegeFootballData (CFBD),401858511
+401858513,2026,10,2026-11-08,Iowa,Northwestern,24,10,CollegeFootballData (CFBD),401858513
+401860912,2026,10,2026-11-08,Texas State,Oregon State,42,21,CollegeFootballData (CFBD),401860912
+401860913,2026,10,2026-11-08,Fresno State,Utah State,10,17,CollegeFootballData (CFBD),401860913
+401862823,2026,10,2026-11-08,Air Force,Army,24,21,CollegeFootballData (CFBD),401862823
+401864532,2026,10,2026-11-08,Hawai'i,UTEP,17,14,CollegeFootballData (CFBD),401864532
+401864535,2026,10,2026-11-08,Wyoming,UNLV,41,35,CollegeFootballData (CFBD),401864535
+401870795,2026,10,2026-11-08,Liberty,New Mexico State,30,14,CollegeFootballData (CFBD),401870795
+401871075,2026,10,2026-11-08,Sam Houston,Jacksonville State,14,47,CollegeFootballData (CFBD),401871075
