@@ -1,8 +1,8 @@
 {
-  "graded_rows": 560,
+  "graded_rows": 627,
   "hash_normalization": "text line endings normalized to LF",
-  "pending_rows": 67,
-  "population_rows": 627,
+  "pending_rows": 66,
+  "population_rows": 693,
   "receipts": [
     {
       "canonical_archive_csv_sha256": "8508e5e0acffcc27e150b722da061303021bf0872e22f674bbd33c70312ff49a",
@@ -135,7 +135,7 @@
       "week": 10
     },
     {
-      "canonical_archive_csv_sha256": "de1ffca561f8d3ec86fb07f26d958cce66a3f3be5f6d3d86e2752e1fbc40856e",
+      "canonical_archive_csv_sha256": "9af5203ebe1720628a45e817e686ce82547117630469828f5854916d4e2f2afc",
       "designated_at_utc": "2026-11-08T20:56:36.780583+00:00",
       "games": 67,
       "original_pregame_receipt_sha256": "a7d20b703716281803ef4d34b962482c9436f4ec197ebd6e506f0a541cc86981",
@@ -146,10 +146,23 @@
       "season": 2026,
       "supersedes_pregame_receipt_sha256": null,
       "week": 11
+    },
+    {
+      "canonical_archive_csv_sha256": "f2903d6bcaf760cd48ab1d1690ab721e0d60579581c116882f95f2b11593aaf9",
+      "designated_at_utc": "2026-11-17T17:44:55.164571+00:00",
+      "games": 66,
+      "original_pregame_receipt_sha256": "90dc6a5299ed5a3bf326eefdeb9e1a22d0eaf2d25077cc0df1dec4406916bd5a",
+      "publication_status": "final-public",
+      "receipt_version": 1,
+      "release_id": "2026.v2",
+      "run_label": "manual-sunday-2026-week-11-to-12",
+      "season": 2026,
+      "supersedes_pregame_receipt_sha256": null,
+      "week": 12
     }
   ],
   "schema_version": 1,
   "scope": "canonical designated public receipts; superseded artifacts retained as provenance",
   "season": 2026,
-  "source_file_count": 38
+  "source_file_count": 41
 }
