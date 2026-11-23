@@ -10,13 +10,13 @@
       "winner_eligible_games": 157
     },
     "2026.v2": {
-      "graded_games": 470,
-      "margin_mae": 13.075368,
-      "pending_games": 66,
-      "published_games": 536,
-      "winner_accuracy": 0.674468,
-      "winner_correct": 317,
-      "winner_eligible_games": 470
+      "graded_games": 536,
+      "margin_mae": 12.942263,
+      "pending_games": 69,
+      "published_games": 605,
+      "winner_accuracy": 0.677239,
+      "winner_correct": 363,
+      "winner_eligible_games": 536
     }
   },
   "by_week": {
@@ -120,19 +120,28 @@
       "winner_eligible_games": 67
     },
     "week-12": {
+      "graded_games": 66,
+      "margin_mae": 11.99439,
+      "pending_games": 0,
+      "published_games": 66,
+      "winner_accuracy": 0.69697,
+      "winner_correct": 46,
+      "winner_eligible_games": 66
+    },
+    "week-13": {
       "graded_games": 0,
-      "pending_games": 66,
-      "published_games": 66
+      "pending_games": 69,
+      "published_games": 69
     }
   },
   "combined": {
-    "graded_games": 627,
-    "margin_mae": 12.886846,
-    "pending_games": 66,
-    "published_games": 693,
-    "winner_accuracy": 0.709729,
-    "winner_correct": 445,
-    "winner_eligible_games": 627
+    "graded_games": 693,
+    "margin_mae": 12.80185,
+    "pending_games": 69,
+    "published_games": 762,
+    "winner_accuracy": 0.708514,
+    "winner_correct": 491,
+    "winner_eligible_games": 693
   },
   "definitions": {
     "margin_mae": "mean(abs(actual_margin_home - published_margin_home))",
@@ -141,15 +150,15 @@
   "record_label": "development validation",
   "same_population_baselines": {
     "home_by_3_margin": {
-      "margin_mae": 15.542265
+      "margin_mae": 15.330447
     },
     "home_team_winner": {
-      "accuracy": 0.602871,
-      "correct": 378
+      "accuracy": 0.601732,
+      "correct": 417
     },
     "population": "same graded games as combined CFP Advantage record",
     "zero_margin": {
-      "margin_mae": 16.054226
+      "margin_mae": 15.831169
     }
   },
   "schema_version": 1,
